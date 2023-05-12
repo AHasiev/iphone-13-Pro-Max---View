@@ -1,0 +1,157 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  max-width: 428px;
+  max-height: 844px;
+}
+
+.header {
+  display: flex;
+  padding: 10px 0px;
+  width: 428px;
+  max-height: 56px;
+  background-color: #a77c5d;
+}
+
+.header_icon {
+  height: 10px;
+  width: 15px;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+
+.header_icon_cat {
+  height: 36px;
+  width: 36px;
+  margin-left: 19px;
+}
+
+.header_title {
+  margin-left: 12px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 28px;
+  margin-top: 3px;
+}
+
+.header_icon_pen {
+  height: 10px;
+  width: 15px;
+  margin-left: 207px;
+  margin-top: 10px;
+}
+
+.main {
+  background-color: #e5e5e5;
+  width: 428px;
+  height: 640px;
+}
+
+.main_weight__title {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  display: flex;
+  padding-top: 24px;
+  margin-left: 13px;
+}
+
+.main_weight__num {
+  margin-left: 27px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.main_birthday {
+  display: flex;
+  margin-top: 11px;
+  margin-left: 13px;
+}
+
+.main_birthday__title {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.main_birthday__num {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 15px;
+}
+
+.main_age {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  margin-left: 13px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.main_age_num {
+  margin-left: 54px;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.main_gender {
+  display: flex;
+  margin-top: 10px;
+  margin-left: 13px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.main_gender__title {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.main_gender__female {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 26px;
+}
+
+hr {
+  margin-width: 200px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  width: 428px;
+  height: 80px;
+}
+
+.footer_img__history {
+  margin-left: 90px;
+}
+
+.footer_img_home__signature {
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14px;
+  margin-left: -5px;
+}
